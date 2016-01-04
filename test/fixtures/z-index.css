@@ -1,0 +1,7 @@
+.parent {
+  z-index: 500;
+}
+
+.child {
+  z-index: 1000
+}
