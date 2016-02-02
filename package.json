@@ -12,7 +12,7 @@
     "rucksack-css": "0.8.5"
   },
   "devDependencies": {
-    "babel-eslint": "4.1.7",
+    "babel-eslint": "4.1.8",
     "codecov": "1.0.1",
     "eslint": "1.10.3",
     "eslint-config-jongleberry": "1.2.3",
