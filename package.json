@@ -15,7 +15,7 @@
     "babel-eslint": "^5.0.0",
     "codecov": "^1.0.1",
     "eslint": "^2.0.0",
-    "eslint-config-jongleberry": "^1.3.0",
+    "eslint-config-jongleberry": "^2.0.1",
     "eslint-config-standard-jsx": "^1.1.1",
     "eslint-plugin-promise": "^1.0.8",
     "eslint-plugin-react": "^3.16.1",
