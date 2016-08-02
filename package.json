@@ -14,7 +14,7 @@
   "devDependencies": {
     "codecov": "^1.0.1",
     "eslint": "^3.0.1",
-    "eslint-config-jongleberry": "^5.0.0",
+    "eslint-config-jongleberry": "^5.0.1",
     "mocha": "^3.0.0",
     "nyc": "^7.0.0",
     "postcss": "^5.0.14"
