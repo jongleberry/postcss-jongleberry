@@ -1,5 +1,7 @@
 'use strict'
 
+/* eslint-env mocha */
+
 const postcss = require('postcss')
 const assert = require('assert')
 const path = require('path')
@@ -33,6 +35,6 @@ function compile (name, options) {
   return postcss(middleware(options))
     .process(input, {
       from: `input/${name}.css`,
-      to: `output/${name}.css`,
+      to: `output/${name}.css`
     })
 }
