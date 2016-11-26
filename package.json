@@ -9,7 +9,7 @@
     "cssnano": "^3.4.0",
     "postcss-cssnext": "^2.4.0",
     "postcss-nested": "^1.0.0",
-    "rucksack-css": "^0.8.5"
+    "rucksack-css": "^0.9.1"
   },
   "devDependencies": {
     "codecov": "^1.0.1",
