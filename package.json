@@ -16,7 +16,7 @@
     "mocha": "^3.0.0",
     "nyc": "^10.0.0",
     "postcss": "^5.0.14",
-    "standard": "^8.0.0"
+    "standard": "^9.0.2"
   },
   "scripts": {
     "lint": "standard --fix",
