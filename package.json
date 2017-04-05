@@ -7,7 +7,7 @@
   "repository": "jongleberry/postcss-jongleberry",
   "dependencies": {
     "cssnano": "^3.4.0",
-    "postcss-cssnext": "^2.4.0",
+    "postcss-cssnext": "^2.6.0",
     "postcss-nested": "^1.0.0",
     "rucksack-css": "^0.9.1"
   },
