@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "codecov": "^2.1.0",
-    "mocha": "^3.0.0",
+    "mocha": "^3.4.0",
     "nyc": "^10.0.0",
     "postcss": "^5.0.14",
     "standard": "^10.0.0"
